@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-markdown/static/css/main.6089383f.css",
+    "main.js": "/react-markdown/static/js/main.fc55217f.js",
+    "static/media/analytics-gb26474104_1920.jpg": "/react-markdown/static/media/analytics-gb26474104_1920.f118613a43ad707af8b0.jpg",
+    "index.html": "/react-markdown/index.html",
+    "main.6089383f.css.map": "/react-markdown/static/css/main.6089383f.css.map",
+    "main.fc55217f.js.map": "/react-markdown/static/js/main.fc55217f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6089383f.css",
+    "static/js/main.fc55217f.js"
+  ]
+}
